@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 .env
 .DS_Store
-.vscode/
 .idea/
 .pytest_cache/
 .mypy_cache/
@@ -22,3 +21,7 @@ data/gold/*
 node_modules/
 *.tsbuildinfo
 frontend/dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
